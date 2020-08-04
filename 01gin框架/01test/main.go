@@ -1,4 +1,4 @@
-package main
+﻿package main
 
 import (
 	"fmt"
@@ -12,7 +12,7 @@ func main() {
 	//r.POST("/",func(c *gin.Context){
 	//	c.String(http.StatusOK,"hello world!")
 	//})
-	//r.Run(":8000")
+	//r.Run(":8001")
 
 	//示例2
 	//r := gin.Default()
